@@ -1,0 +1,2 @@
+# Shadowsocks_Ubuntu_shell
+一个交作业用的Ubuntu环境下搭建Shadowsocks3.0的辣鸡脚本
