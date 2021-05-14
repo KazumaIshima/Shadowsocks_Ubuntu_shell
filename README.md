@@ -3,6 +3,15 @@
 参考[Ubuntu-16-04下Shadowsocks服务器端安装及优化](https://www.polarxiong.com/archives/Ubuntu-16-04%E4%B8%8BShadowsocks%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AB%AF%E5%AE%89%E8%A3%85%E5%8F%8A%E4%BC%98%E5%8C%96.html)中的教程
 适用于Ubuntu18.04以上的版本（其他版本没做过测试）
 ~~一次性脚本~~ **开启过的优化不要重复开启**  
+
+使用方法:
+```shell
+#添加执行权限
+chmod +x ShadowsocksConfig.sh
+#启动脚本
+sudo ./ShadowsocksConfig.sh
+```
+
 操作选项：  
 ```
   1. 第一次安装          //可以使用
